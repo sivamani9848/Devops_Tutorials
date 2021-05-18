@@ -43,7 +43,7 @@ Modify the same job which created in part-01 and add deployment steps.
 
 Save and run the job now.
 
-### Port-03 : Continuous Integration & Continuous Deployment (CI/CD)
+### Part-03 : Continuous Integration & Continuous Deployment (CI/CD)
 Now job is running fine but to make this as Continuous Integration and Continuous Deployment Tod do that go back and modify job as below. 
   - Build Triggers
     - Poll SCM
